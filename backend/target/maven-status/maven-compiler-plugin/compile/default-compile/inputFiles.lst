@@ -1,0 +1,8 @@
+D:\1.AI LABS\Taxi_System\Taxi_System\backend\src\main\java\com\taxi\dto\RideRequestDto.java
+D:\1.AI LABS\Taxi_System\Taxi_System\backend\src\main\java\com\taxi\config\CorsConfig.java
+D:\1.AI LABS\Taxi_System\Taxi_System\backend\src\main\java\com\taxi\RideBookingApplication.java
+D:\1.AI LABS\Taxi_System\Taxi_System\backend\src\main\java\com\taxi\repository\RideRepository.java
+D:\1.AI LABS\Taxi_System\Taxi_System\backend\src\main\java\com\taxi\model\Ride.java
+D:\1.AI LABS\Taxi_System\Taxi_System\backend\src\main\java\com\taxi\model\RideStatus.java
+D:\1.AI LABS\Taxi_System\Taxi_System\backend\src\main\java\com\taxi\service\RideService.java
+D:\1.AI LABS\Taxi_System\Taxi_System\backend\src\main\java\com\taxi\controller\RideController.java
